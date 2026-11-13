@@ -256,9 +256,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 2.42,
+        "value": 2.43,
         "$source": "can0.1",
-        "timestamp": "2026-11-13T13:26:12.078Z",
+        "timestamp": "2026-11-13T13:26:12.280Z",
         "pgn": 130306
       },
       "angleApparent": {
@@ -274,9 +274,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": -2.431485307179586,
+        "value": -2.4351853071795864,
         "$source": "can0.1",
-        "timestamp": "2026-11-13T13:26:12.078Z",
+        "timestamp": "2026-11-13T13:26:12.280Z",
         "pgn": 130306
       },
       "angleTrueWater": {
@@ -292,9 +292,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": -2.425585307179586,
+        "value": -2.431485307179586,
         "$source": "derived-data",
-        "timestamp": "2026-11-13T13:26:11.733Z"
+        "timestamp": "2026-11-13T13:26:12.078Z"
       },
       "speedTrue": {
         "meta": {
@@ -311,7 +311,7 @@
         },
         "value": 2.42,
         "$source": "derived-data",
-        "timestamp": "2026-11-13T13:26:11.733Z"
+        "timestamp": "2026-11-13T13:26:12.078Z"
       },
       "directionTrue": {
         "meta": {
@@ -326,7 +326,7 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 3.6954146928204143,
+        "value": 3.686314692820414,
         "$source": "derived-data",
         "timestamp": "2026-11-13T13:26:11.192Z"
       }
@@ -493,24 +493,24 @@
     },
     "current": {
       "drift": {
-        "value": 0.042499999999999996,
+        "value": 0.10055555555555555,
         "$source": "derived-data",
-        "timestamp": "2026-11-13T13:26:11.192Z"
+        "timestamp": "2026-11-13T13:26:12.084Z"
       },
       "setTrue": {
         "value": 0,
         "$source": "derived-data",
-        "timestamp": "2026-11-13T13:26:11.192Z"
+        "timestamp": "2026-11-13T13:26:12.084Z"
       },
       "setMagnetic": {
         "value": 6.048485307179586,
         "$source": "derived-data",
-        "timestamp": "2026-11-13T13:26:11.192Z"
+        "timestamp": "2026-11-13T13:26:12.084Z"
       },
       "driftImpact": {
-        "value": 0.042499999999999996,
+        "value": 0.10055555555555556,
         "$source": "derived-data",
-        "timestamp": "2026-11-13T13:26:11.192Z"
+        "timestamp": "2026-11-13T13:26:12.084Z"
       },
       "meta": {
         "description": "Direction and strength of current affecting the vessel",
@@ -2767,9 +2767,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 5.8812,
+      "value": 5.88,
       "$source": "can0.5",
-      "timestamp": "2026-11-13T13:26:12.098Z",
+      "timestamp": "2026-11-13T13:26:12.248Z",
       "pgn": 127250
     },
     "attitude": {
@@ -2794,11 +2794,11 @@
         }
       },
       "value": {
-        "pitch": -0.0019,
+        "pitch": -0.0018,
         "roll": -0.0283
       },
       "$source": "can0.35",
-      "timestamp": "2026-11-13T13:26:12.028Z",
+      "timestamp": "2026-11-13T13:26:12.228Z",
       "pgn": 127257
     },
     "speedThroughWater": {
@@ -2816,13 +2816,13 @@
       },
       "value": 0,
       "$source": "can0.35",
-      "timestamp": "2026-11-13T13:26:11.933Z",
+      "timestamp": "2026-11-13T13:26:12.135Z",
       "pgn": 128259
     },
     "speedThroughWaterReferenceType": {
       "value": "Paddle wheel",
       "$source": "can0.35",
-      "timestamp": "2026-11-13T13:26:11.933Z",
+      "timestamp": "2026-11-13T13:26:12.135Z",
       "pgn": 128259
     },
     "rateOfTurn": {
@@ -2838,9 +2838,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": -0.01524381,
+      "value": -0.0048895,
       "$source": "can0.5",
-      "timestamp": "2026-11-13T13:26:12.073Z",
+      "timestamp": "2026-11-13T13:26:12.273Z",
       "pgn": 127251
     },
     "magneticVariation": {
@@ -2858,7 +2858,7 @@
       },
       "value": 0.2347,
       "$source": "can0.7",
-      "timestamp": "2026-11-13T13:26:11.192Z",
+      "timestamp": "2026-11-13T13:26:12.151Z",
       "source": {
         "value": "WMM 2025",
         "$source": "derived-data",
@@ -2874,7 +2874,7 @@
         },
         "can0.7": {
           "value": 0.2347,
-          "timestamp": "2026-11-13T13:26:11.192Z",
+          "timestamp": "2026-11-13T13:26:12.151Z",
           "pgn": 127258
         }
       },
@@ -3416,7 +3416,7 @@
         }
       },
       "$source": "derived-data",
-      "timestamp": "2026-11-13T13:26:11.192Z"
+      "timestamp": "2026-11-13T13:26:12.084Z"
     },
     "headingTrue": {
       "meta": {
@@ -3431,9 +3431,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 6.1178,
+      "value": 6.1151,
       "$source": "derived-data",
-      "timestamp": "2026-11-13T13:26:11.192Z"
+      "timestamp": "2026-11-13T13:26:12.084Z"
     },
     "log": {
       "meta": {
@@ -3747,7 +3747,7 @@
       },
       "value": 0,
       "$source": "derived-data",
-      "timestamp": "2026-11-13T13:26:11.733Z"
+      "timestamp": "2026-11-13T13:26:12.133Z"
     },
     "beatAngle": {
       "meta": {
@@ -3762,9 +3762,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": -0.814733659800573,
+      "value": -0.814542567988732,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "gybeAngle": {
       "meta": {
@@ -3781,7 +3781,7 @@
       },
       "value": -2.6179938779914944,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "beatAngleVelocityMadeGood": {
       "meta": {
@@ -3796,9 +3796,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 0.9470989199000528,
+      "value": 0.9493462957863787,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "gybeAngleVelocityMadeGood": {
       "meta": {
@@ -3813,9 +3813,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.435536799846235,
+      "value": 1.4389943012098136,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "targetAngle": {
       "meta": {
@@ -3832,7 +3832,7 @@
       },
       "value": -2.6179938779914944,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "targetVelocityMadeGood": {
       "meta": {
@@ -3847,9 +3847,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.435536799846235,
+      "value": 1.4389943012098136,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "optimumWindAngle": {
       "meta": {
@@ -3864,9 +3864,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 0.21301295612987747,
+      "value": 0.20697505141605532,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "polarSpeed": {
       "meta": {
@@ -3881,9 +3881,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.9302720478189324,
+      "value": 1.926799306974112,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "targetSpeed": {
       "meta": {
@@ -3898,9 +3898,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.6576151156456753,
+      "value": 1.6616074943316466,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "polarSpeedRatio": {
       "meta": {
@@ -3917,7 +3917,7 @@
       },
       "value": 0,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "velocityMadeGood": {
       "meta": {
@@ -3934,7 +3934,7 @@
       },
       "value": 0,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "polarVelocityMadeGood": {
       "meta": {
@@ -3949,9 +3949,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.435536799846235,
+      "value": 1.4389943012098136,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "polarVelocityMadeGoodRatio": {
       "meta": {
@@ -3968,7 +3968,7 @@
       },
       "value": 0,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "maxSpeed": {
       "meta": {
@@ -3983,9 +3983,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 2.4723260211535787,
+      "value": 2.4766541825856105,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "maxSpeedAngle": {
       "meta": {
@@ -4002,7 +4002,7 @@
       },
       "value": -1.3089969389957472,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     },
     "tackTrue": {
       "meta": {
@@ -4017,9 +4017,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 3.5104132943541337,
+      "value": 3.5080752555279346,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-13T13:26:11.880Z"
+      "timestamp": "2026-11-13T13:26:12.136Z"
     }
   },
   "propulsion": {
@@ -4047,7 +4047,7 @@
         },
         "value": 0,
         "$source": "can0.6",
-        "timestamp": "2026-11-13T13:26:12.029Z",
+        "timestamp": "2026-11-13T13:26:12.235Z",
         "pgn": 127488
       },
       "drive": {
@@ -4066,7 +4066,7 @@
           },
           "value": -1,
           "$source": "can0.6",
-          "timestamp": "2026-11-13T13:26:12.029Z",
+          "timestamp": "2026-11-13T13:26:12.235Z",
           "pgn": 127488
         }
       },
