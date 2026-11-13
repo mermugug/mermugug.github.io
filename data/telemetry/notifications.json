@@ -1,37 +1,24 @@
 {
   "schema_version": 1,
-  "generated": "2026-11-13T04:26:05.475Z",
+  "generated": "2026-11-13T13:26:20.534Z",
   "window_hours": 24,
-  "sampled_since": "2026-11-12T04:26:05.475Z",
+  "sampled_since": "2026-11-12T13:26:20.534Z",
   "continuous": true,
   "active": [
     {
-      "path": "plugins.signalkAlertCenter.services.ZacksPhone4171b965",
-      "state": "alert",
-      "level": "alert",
-      "message": "Zack’s Phone has 1 failed notification delivery awaiting retry. Last error: NETWORK.",
+      "path": "tracker.publishFailed",
+      "state": "warn",
+      "level": "warn",
+      "message": "The tracker has not published for 60 minutes (2 failed attempts). Last error: fetch failed",
       "method": [
-        "visual"
+        "visual",
+        "sound"
       ],
-      "timestamp": "2026-11-13T04:21:15.779Z",
-      "since": "2026-11-12T23:31:07.018Z"
+      "timestamp": "2026-11-13T06:26:23.361Z",
+      "since": "2026-11-13T04:06:39.689Z"
     }
   ],
   "events": [
-    {
-      "path": "plugins.signalkAlertCenter.services.ZacksPhone4171b965",
-      "state": "alert",
-      "level": "alert",
-      "message": "Zack’s Phone has 1 failed notification delivery awaiting retry. Last error: NETWORK.",
-      "at": "2026-11-12T06:07:51.586Z"
-    },
-    {
-      "path": "plugins.signalkAlertCenter.services.ZacksPhone4171b965",
-      "state": "alert",
-      "level": "alert",
-      "message": "Zack’s Phone has 1 failed notification delivery awaiting retry. Last error: NETWORK.",
-      "at": "2026-11-12T07:33:02.264Z"
-    },
     {
       "path": "plugins.signalkAlertCenter.services.ZacksPhone4171b965",
       "state": "alert",
@@ -199,6 +186,27 @@
       "level": "alert",
       "message": "Zack’s Phone has 1 failed notification delivery awaiting retry. Last error: NETWORK.",
       "at": "2026-11-13T04:21:15.781Z"
+    },
+    {
+      "path": "plugins.signalkAlertCenter.services.ZacksPhone4171b965",
+      "state": "alert",
+      "level": "alert",
+      "message": "Zack’s Phone has 2 failed notification deliveries awaiting retry. Last error: NETWORK.",
+      "at": "2026-11-13T04:36:13.707Z"
+    },
+    {
+      "path": "tracker.publishFailed",
+      "state": "warn",
+      "level": "warn",
+      "message": "The tracker has not published for 60 minutes (2 failed attempts). Last error: fetch failed",
+      "at": "2026-11-13T06:26:19.182Z"
+    },
+    {
+      "path": "plugins.signalkAlertCenter.services.ZacksPhone4171b965",
+      "state": "alert",
+      "level": "alert",
+      "message": "Zack’s Phone has 1 failed notification delivery awaiting retry. Last error: NETWORK.",
+      "at": "2026-11-13T08:48:28.894Z"
     }
   ]
 }
