@@ -46,9 +46,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 3.99,
+        "value": 3.84,
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:17.402Z"
+        "timestamp": "2026-11-15T00:09:30.421Z"
       },
       "belowKeel": {
         "meta": {
@@ -63,9 +63,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 1.68,
+        "value": 1.53,
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:17.402Z"
+        "timestamp": "2026-11-15T00:09:30.421Z"
       },
       "belowTransducer": {
         "meta": {
@@ -80,9 +80,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 3.54,
+        "value": 3.39,
         "$source": "can0.35",
-        "timestamp": "2026-11-14T23:09:17.402Z",
+        "timestamp": "2026-11-15T00:09:30.421Z",
         "pgn": 128267
       },
       "belowChartDatum": {
@@ -98,9 +98,9 @@
           },
           "units": "m"
         },
-        "value": 2.3933007160925777,
+        "value": 2.533507348353098,
         "$source": "tides",
-        "timestamp": "2026-11-14T23:09:17.403Z"
+        "timestamp": "2026-11-15T00:09:30.421Z"
       }
     },
     "rpi": {
@@ -118,9 +118,9 @@
               "displayFormat": "0.0"
             }
           },
-          "value": 326.95,
+          "value": 328.55,
           "$source": "signalk-rpi-monitor",
-          "timestamp": "2026-11-14T23:09:11.351Z"
+          "timestamp": "2026-11-15T00:09:15.126Z"
         }
       },
       "cpu": {
@@ -137,9 +137,9 @@
               "displayFormat": "0.0"
             }
           },
-          "value": 328.25,
+          "value": 327.15,
           "$source": "signalk-rpi-monitor",
-          "timestamp": "2026-11-14T23:09:11.351Z"
+          "timestamp": "2026-11-15T00:09:15.128Z"
         },
         "utilisation": {
           "meta": {
@@ -154,37 +154,37 @@
               "displayFormat": "0"
             }
           },
-          "value": 0.68,
+          "value": 0.5,
           "$source": "signalk-rpi-monitor",
-          "timestamp": "2026-11-14T23:09:15.797Z"
+          "timestamp": "2026-11-15T00:09:19.815Z"
         },
         "core": {
           "1": {
             "utilisation": {
-              "value": 0.51,
+              "value": 0.41,
               "$source": "signalk-rpi-monitor",
-              "timestamp": "2026-11-14T23:09:15.797Z"
+              "timestamp": "2026-11-15T00:09:19.815Z"
             }
           },
           "2": {
             "utilisation": {
-              "value": 0.84,
+              "value": 0.28,
               "$source": "signalk-rpi-monitor",
-              "timestamp": "2026-11-14T23:09:15.797Z"
+              "timestamp": "2026-11-15T00:09:19.816Z"
             }
           },
           "3": {
             "utilisation": {
-              "value": 0.75,
+              "value": 0.31,
               "$source": "signalk-rpi-monitor",
-              "timestamp": "2026-11-14T23:09:15.798Z"
+              "timestamp": "2026-11-15T00:09:19.816Z"
             }
           },
           "4": {
             "utilisation": {
-              "value": 0.59,
+              "value": 1,
               "$source": "signalk-rpi-monitor",
-              "timestamp": "2026-11-14T23:09:15.798Z"
+              "timestamp": "2026-11-15T00:09:19.816Z"
             }
           }
         }
@@ -205,7 +205,7 @@
           },
           "value": 0.73,
           "$source": "signalk-rpi-monitor",
-          "timestamp": "2026-11-14T23:09:11.352Z"
+          "timestamp": "2026-11-15T00:09:15.128Z"
         }
       },
       "sd": {
@@ -238,7 +238,7 @@
           },
           "value": 0.69,
           "$source": "signalk-rpi-monitor",
-          "timestamp": "2026-11-14T23:09:11.547Z"
+          "timestamp": "2026-11-15T00:09:15.263Z"
         }
       }
     },
@@ -256,9 +256,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 2.56,
+        "value": 2.28,
         "$source": "can0.1",
-        "timestamp": "2026-11-14T23:09:17.964Z",
+        "timestamp": "2026-11-15T00:09:31.197Z",
         "pgn": 130306
       },
       "angleApparent": {
@@ -274,9 +274,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": -2.2784853071795865,
+        "value": -2.160885307179586,
         "$source": "can0.1",
-        "timestamp": "2026-11-14T23:09:17.964Z",
+        "timestamp": "2026-11-15T00:09:31.197Z",
         "pgn": 130306
       },
       "angleTrueWater": {
@@ -292,9 +292,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": -2.277885307179586,
+        "value": -2.1580853071795865,
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:17.700Z"
+        "timestamp": "2026-11-15T00:09:31.097Z"
       },
       "speedTrue": {
         "meta": {
@@ -309,9 +309,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 2.56,
+        "value": 2.28,
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:17.700Z"
+        "timestamp": "2026-11-15T00:09:31.097Z"
       },
       "directionTrue": {
         "meta": {
@@ -326,15 +326,15 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 3.838614692820414,
+        "value": 3.9784146928204134,
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:17.177Z"
+        "timestamp": "2026-11-15T00:09:30.168Z"
       }
     },
     "sun": {
       "value": "day",
       "$source": "derived-data",
-      "timestamp": "2026-11-14T23:08:24.086Z"
+      "timestamp": "2026-11-15T00:08:39.103Z"
     },
     "mode": {
       "meta": {
@@ -343,174 +343,174 @@
       },
       "value": "day",
       "$source": "derived-data",
-      "timestamp": "2026-11-14T23:08:24.086Z"
+      "timestamp": "2026-11-15T00:08:39.103Z"
     },
     "sunlight": {
       "times": {
         "1": {
           "sunrise": {
-            "value": "2026-11-15T14:49:59.981Z",
+            "value": "2026-11-15T14:49:59.985Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "sunriseEnd": {
-            "value": "2026-11-15T14:52:56.340Z",
+            "value": "2026-11-15T14:52:56.345Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "goldenHourEnd": {
-            "value": "2026-11-15T15:28:32.952Z",
+            "value": "2026-11-15T15:28:32.957Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "solarNoon": {
-            "value": "2026-11-15T19:54:11.900Z",
+            "value": "2026-11-15T19:54:11.905Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "goldenHour": {
-            "value": "2026-11-16T00:19:28.737Z",
+            "value": "2026-11-16T00:19:28.741Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "sunsetStart": {
-            "value": "2026-11-16T00:55:05.003Z",
+            "value": "2026-11-16T00:55:05.007Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "sunset": {
-            "value": "2026-11-16T00:58:01.328Z",
+            "value": "2026-11-16T00:58:01.332Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "dusk": {
-            "value": "2026-11-16T01:26:02.902Z",
+            "value": "2026-11-16T01:26:02.906Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "nauticalDusk": {
-            "value": "2026-11-16T01:57:45.302Z",
+            "value": "2026-11-16T01:57:45.307Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "night": {
-            "value": "2026-11-16T02:28:49.599Z",
+            "value": "2026-11-16T02:28:49.604Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "nadir": {
-            "value": "2026-11-15T07:54:11.900Z",
+            "value": "2026-11-15T07:54:11.905Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "nightEnd": {
-            "value": "2026-11-15T13:19:10.054Z",
+            "value": "2026-11-15T13:19:10.058Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "nauticalDawn": {
-            "value": "2026-11-15T13:50:15.064Z",
+            "value": "2026-11-15T13:50:15.068Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           },
           "dawn": {
-            "value": "2026-11-15T14:21:58.028Z",
+            "value": "2026-11-15T14:21:58.033Z",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:08:24.086Z"
+            "timestamp": "2026-11-15T00:08:39.103Z"
           }
         },
         "sunrise": {
-          "value": "2026-11-14T14:48:56.010Z",
+          "value": "2026-11-14T14:48:56.015Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "sunriseEnd": {
-          "value": "2026-11-14T14:51:51.931Z",
+          "value": "2026-11-14T14:51:51.936Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "goldenHourEnd": {
-          "value": "2026-11-14T15:27:22.272Z",
+          "value": "2026-11-14T15:27:22.276Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "solarNoon": {
-          "value": "2026-11-14T19:54:01.820Z",
+          "value": "2026-11-14T19:54:01.824Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "goldenHour": {
-          "value": "2026-11-15T00:20:18.820Z",
+          "value": "2026-11-15T00:20:18.824Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "sunsetStart": {
-          "value": "2026-11-15T00:55:48.789Z",
+          "value": "2026-11-15T00:55:48.793Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "sunset": {
-          "value": "2026-11-15T00:58:44.673Z",
+          "value": "2026-11-15T00:58:44.677Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "dusk": {
-          "value": "2026-11-15T01:26:42.549Z",
+          "value": "2026-11-15T01:26:42.553Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "nauticalDusk": {
-          "value": "2026-11-15T01:58:21.737Z",
+          "value": "2026-11-15T01:58:21.741Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "night": {
-          "value": "2026-11-15T02:29:23.754Z",
+          "value": "2026-11-15T02:29:23.758Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "nadir": {
-          "value": "2026-11-14T07:54:01.820Z",
+          "value": "2026-11-14T07:54:01.824Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "nightEnd": {
-          "value": "2026-11-14T13:18:15.169Z",
+          "value": "2026-11-14T13:18:15.174Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "nauticalDawn": {
-          "value": "2026-11-14T13:49:17.942Z",
+          "value": "2026-11-14T13:49:17.947Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         },
         "dawn": {
-          "value": "2026-11-14T14:20:57.729Z",
+          "value": "2026-11-14T14:20:57.734Z",
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:08:24.086Z"
+          "timestamp": "2026-11-15T00:08:39.103Z"
         }
       }
     },
     "current": {
       "drift": {
-        "value": 0.03972222222222222,
+        "value": 0.015555555555555555,
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:17.177Z"
+        "timestamp": "2026-11-15T00:09:31.087Z"
       },
       "setTrue": {
         "value": 0,
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:17.177Z"
+        "timestamp": "2026-11-15T00:09:31.087Z"
       },
       "setMagnetic": {
         "value": 6.048485307179586,
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:17.177Z"
+        "timestamp": "2026-11-15T00:09:31.087Z"
       },
       "driftImpact": {
-        "value": 0.03972222222222222,
+        "value": 0.015555555555555555,
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:17.177Z"
+        "timestamp": "2026-11-15T00:09:31.087Z"
       },
       "meta": {
         "description": "Direction and strength of current affecting the vessel",
@@ -536,11 +536,11 @@
         }
       },
       "value": {
-        "drift": 0.22222222222222224,
-        "setTrue": 3.9269908169872423
+        "drift": 0.3333333333333333,
+        "setTrue": 3.822271061867582
       },
       "$source": "open-meteo-marine",
-      "timestamp": "2026-11-14T23:00:00.000Z"
+      "timestamp": "2026-11-15T00:00:00.000Z"
     },
     "water": {
       "temperature": {
@@ -556,9 +556,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 291.169,
+        "value": 291.189,
         "$source": "can0.35",
-        "timestamp": "2026-11-14T23:09:16.401Z",
+        "timestamp": "2026-11-15T00:09:30.406Z",
         "pgn": 130316
       },
       "waves": {
@@ -576,9 +576,9 @@
               "displayFormat": "0.0"
             }
           },
-          "value": 1.92,
+          "value": 1.88,
           "$source": "open-meteo-marine",
-          "timestamp": "2026-11-14T23:00:00.000Z"
+          "timestamp": "2026-11-15T00:00:00.000Z"
         },
         "period": {
           "meta": {
@@ -594,9 +594,9 @@
               "displayFormat": "0.0"
             }
           },
-          "value": 13.6,
+          "value": 13.4,
           "$source": "open-meteo-marine",
-          "timestamp": "2026-11-14T23:00:00.000Z"
+          "timestamp": "2026-11-15T00:00:00.000Z"
         },
         "direction": {
           "meta": {
@@ -614,12 +614,12 @@
           },
           "value": 4.625122517784973,
           "$source": "open-meteo-marine",
-          "timestamp": "2026-11-14T23:00:00.000Z"
+          "timestamp": "2026-11-15T00:00:00.000Z"
         },
         "windWaveHeight": {
           "value": 0.02,
           "$source": "open-meteo-marine",
-          "timestamp": "2026-11-14T23:00:00.000Z",
+          "timestamp": "2026-11-15T00:00:00.000Z",
           "meta": {
             "units": "m",
             "displayName": "Wind-wave height",
@@ -637,9 +637,9 @@
       },
       "swell": {
         "height": {
-          "value": 1.84,
+          "value": 1.8,
           "$source": "open-meteo-marine",
-          "timestamp": "2026-11-14T23:00:00.000Z",
+          "timestamp": "2026-11-15T00:00:00.000Z",
           "meta": {
             "units": "m",
             "displayName": "Swell height",
@@ -668,14 +668,14 @@
               "displayFormat": "0.0"
             }
           },
-          "value": 11.65,
+          "value": 11.3,
           "$source": "open-meteo-marine",
-          "timestamp": "2026-11-14T23:00:00.000Z"
+          "timestamp": "2026-11-15T00:00:00.000Z"
         },
         "direction": {
-          "value": 4.6774823953448035,
+          "value": 4.694935687864746,
           "$source": "open-meteo-marine",
-          "timestamp": "2026-11-14T23:00:00.000Z",
+          "timestamp": "2026-11-15T00:00:00.000Z",
           "meta": {
             "units": "rad",
             "displayName": "Swell direction",
@@ -696,12 +696,12 @@
       "stationName": {
         "value": "Rincon Point",
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z"
+        "timestamp": "2026-11-15T00:08:55.559Z"
       },
       "stationDistance": {
-        "value": 1007.3003116453425,
+        "value": 1006.7636416731654,
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z",
+        "timestamp": "2026-11-15T00:08:55.559Z",
         "meta": {
           "units": "m",
           "description": "Distance from the vessel to the station it was given",
@@ -718,7 +718,7 @@
       "datum": {
         "value": "MLLW",
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z",
+        "timestamp": "2026-11-15T00:08:55.559Z",
         "meta": {
           "description": "Vertical datum of the tide heights and environment.depth.belowChartDatum: the station's chart datum, such as MLLW, LAT or CD. MSL when the station has none, and then only the heights use it."
         }
@@ -736,22 +736,22 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 1.5979682686514878,
+        "value": 1.3495111981190706,
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z"
+        "timestamp": "2026-11-15T00:08:55.559Z"
       },
       "state": {
         "value": "falling",
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z",
+        "timestamp": "2026-11-15T00:08:55.559Z",
         "meta": {
           "description": "Tide trend at the current position: rising or falling"
         }
       },
       "timeToNextExtreme": {
-        "value": 21326,
+        "value": 17722,
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z",
+        "timestamp": "2026-11-15T00:08:55.559Z",
         "meta": {
           "units": "s",
           "description": "Seconds until the next tide extreme (high or low water)",
@@ -780,7 +780,7 @@
         },
         "value": 0.027560564149104794,
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z"
+        "timestamp": "2026-11-15T00:08:55.559Z"
       },
       "timeLow": {
         "meta": {
@@ -789,7 +789,7 @@
         },
         "value": "2026-11-15T05:04:17.070Z",
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z"
+        "timestamp": "2026-11-15T00:08:55.559Z"
       },
       "heightHigh": {
         "meta": {
@@ -806,7 +806,7 @@
         },
         "value": 1.4477665502839623,
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z"
+        "timestamp": "2026-11-15T00:08:55.559Z"
       },
       "timeHigh": {
         "meta": {
@@ -815,7 +815,7 @@
         },
         "value": "2026-11-15T13:06:02.267Z",
         "$source": "tides",
-        "timestamp": "2026-11-14T23:08:52.049Z"
+        "timestamp": "2026-11-15T00:08:55.559Z"
       }
     },
     "outside": {
@@ -832,9 +832,7 @@
             "displayFormat": "0.00"
           }
         },
-        "value": 101460,
-        "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z"
+        "$source": "open-meteo"
       },
       "relativeHumidity": {
         "meta": {
@@ -849,9 +847,7 @@
             "displayFormat": "0"
           }
         },
-        "value": 0.83,
-        "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z"
+        "$source": "open-meteo"
       },
       "dewPointTemperature": {
         "meta": {
@@ -866,9 +862,7 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 286.04999999999995,
-        "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z"
+        "$source": "open-meteo"
       },
       "theoreticalWindChillTemperature": {
         "meta": {
@@ -883,9 +877,7 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 288.95,
-        "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z"
+        "$source": "open-meteo"
       },
       "heatIndexTemperature": {
         "meta": {
@@ -900,9 +892,7 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 288.95,
-        "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z"
+        "$source": "open-meteo"
       },
       "apparentWindChillTemperature": {
         "meta": {
@@ -918,18 +908,14 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 288.95,
-        "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z"
+        "$source": "open-meteo"
       },
       "airDensity": {
         "meta": {
           "description": "Current outside air density",
           "units": "kg/m3"
         },
-        "value": 1.21643783662422,
-        "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z"
+        "$source": "open-meteo"
       },
       "temperature": {
         "meta": {
@@ -944,16 +930,14 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 301.15,
+        "value": 293.15,
         "$source": "OpenPlotter.GPIO.1W.000000b94d14",
-        "timestamp": "2026-11-14T22:14:43.313Z"
+        "timestamp": "2026-11-15T00:05:28.711Z"
       }
     },
     "weather": {
       "wetBulbGlobeTemperature": {
-        "value": 291.89150052963544,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "units": "K",
           "displayName": "Wet bulb globe temp",
@@ -969,9 +953,7 @@
         }
       },
       "apparentTemperature": {
-        "value": 288.95,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "units": "K",
           "displayName": "Apparent temperature",
@@ -987,9 +969,7 @@
         }
       },
       "absoluteHumidity": {
-        "value": 0.011146832033661467,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "units": "kg/m3",
           "displayName": "Absolute humidity",
@@ -997,9 +977,7 @@
         }
       },
       "speedGust": {
-        "value": 3.3,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "units": "m/s",
           "displayName": "Wind gust speed",
@@ -1015,27 +993,21 @@
         }
       },
       "gustFactor": {
-        "value": 1.7741935483870965,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "displayName": "Wind gust factor",
           "description": "Multiplier of peak gust over sustained wind speed (gust/sustained), always >= 1. Omitted when the upstream gust reading is not above the sustained wind speed. Plugin-derived; not in the 1.8.2 vocabulary."
         }
       },
       "beaufortScale": {
-        "value": 2,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "displayName": "Beaufort scale",
           "description": "Wind force category 0 (calm) to 12 (hurricane), derived from sustained wind speed. Plugin-derived; not in the 1.8.2 vocabulary."
         }
       },
       "windSpeedApparent": {
-        "value": 1.829214005112217,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "units": "m/s",
           "displayName": "Apparent wind speed",
@@ -1051,9 +1023,7 @@
         }
       },
       "windAngleApparent": {
-        "value": -2.2660711949049066,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "units": "rad",
           "displayName": "Apparent wind angle",
@@ -1069,18 +1039,14 @@
         }
       },
       "uvIndex": {
-        "value": 2.2,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "displayName": "UV index",
           "description": "WHO solar UV scale: 0..2 low, 3..5 moderate, 6..7 high, 8..10 very high, 11+ extreme."
         }
       },
       "visibility": {
-        "value": 18600,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "units": "m",
           "displayName": "Visibility",
@@ -1095,9 +1061,7 @@
         }
       },
       "cloudCover": {
-        "value": 0.98,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "units": "ratio",
           "displayName": "Cloud cover",
@@ -1113,9 +1077,7 @@
         }
       },
       "precipitationLastHour": {
-        "value": 0,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "units": "m",
           "displayName": "Precipitation, last hour",
@@ -1130,18 +1092,14 @@
         }
       },
       "heatStressIndex": {
-        "value": 0,
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "displayName": "Heat stress index",
           "description": "WBGT-derived heat-stress category: 0 (<26.7 C), 1 (26.7..27.8 C), 2 (27.8..29.4 C, the US military green flag), 3 (29.4..32.2 C, spanning the yellow and red flags), 4 (>=32.2 C, black flag)."
         }
       },
       "description": {
-        "value": "Overcast",
         "$source": "open-meteo",
-        "timestamp": "2026-11-14T22:30:00.000Z",
         "meta": {
           "displayName": "Weather description",
           "description": "Plain-language summary of current conditions from the weather provider (AccuWeather WeatherText or Open-Meteo WMO weather code)."
@@ -1182,7 +1140,7 @@
           },
           "value": 282.65,
           "$source": "OpenPlotter.GPIO.1W.000000ba9635",
-          "timestamp": "2026-11-14T22:14:43.247Z"
+          "timestamp": "2026-11-15T00:05:28.515Z"
         }
       },
       "temperature": {
@@ -1206,9 +1164,9 @@
             "displayFormat": "0.0"
           }
         },
-        "value": 294.4,
+        "value": 294.9625,
         "$source": "OpenPlotter.GPIO.1W.000000b94a30",
-        "timestamp": "2026-11-14T22:14:44.114Z"
+        "timestamp": "2026-11-15T00:05:29.564Z"
       },
       "freezer": {
         "temperature": {
@@ -1244,9 +1202,9 @@
               "displayFormat": "0.0"
             }
           },
-          "value": 269.15,
+          "value": 250.64999999999998,
           "$source": "OpenPlotter.GPIO.1W.000000b4c4ab",
-          "timestamp": "2026-11-14T22:14:44.262Z"
+          "timestamp": "2026-11-15T00:05:29.704Z"
         }
       }
     }
@@ -1479,7 +1437,7 @@
         },
         "value": "B",
         "$source": "can0.2",
-        "timestamp": "2026-11-14T23:09:17.588Z",
+        "timestamp": "2026-11-15T00:09:31.120Z",
         "pgn": 129039
       }
     },
@@ -1490,9 +1448,9 @@
             "description": "",
             "units": "db"
           },
-          "value": -71,
+          "value": -72,
           "$source": "fuel.reserve",
-          "timestamp": "2026-11-14T23:09:14.678Z"
+          "timestamp": "2026-11-15T00:09:26.982Z"
         },
         "battery": {
           "voltage": {
@@ -1510,7 +1468,7 @@
             },
             "value": 2.96875,
             "$source": "fuel.reserve",
-            "timestamp": "2026-11-14T23:09:14.679Z"
+            "timestamp": "2026-11-15T00:09:26.982Z"
           },
           "strength": {
             "meta": {
@@ -1541,7 +1499,7 @@
             },
             "value": 1,
             "$source": "fuel.reserve",
-            "timestamp": "2026-11-14T23:09:14.679Z"
+            "timestamp": "2026-11-15T00:09:26.982Z"
           }
         },
         "readingQuality": {
@@ -1550,7 +1508,7 @@
           },
           "value": 3,
           "$source": "fuel.reserve",
-          "timestamp": "2026-11-14T23:09:14.680Z"
+          "timestamp": "2026-11-15T00:09:26.982Z"
         }
       }
     },
@@ -1561,9 +1519,9 @@
             "description": "",
             "units": "db"
           },
-          "value": -78,
+          "value": -76,
           "$source": "propane.a",
-          "timestamp": "2026-11-14T23:09:07.120Z"
+          "timestamp": "2026-11-15T00:09:23.279Z"
         },
         "battery": {
           "voltage": {
@@ -1581,7 +1539,7 @@
             },
             "value": 3,
             "$source": "propane.a",
-            "timestamp": "2026-11-14T23:09:07.121Z"
+            "timestamp": "2026-11-15T00:09:23.279Z"
           },
           "strength": {
             "meta": {
@@ -1612,7 +1570,7 @@
             },
             "value": 1,
             "$source": "propane.a",
-            "timestamp": "2026-11-14T23:09:07.121Z"
+            "timestamp": "2026-11-15T00:09:23.279Z"
           }
         },
         "readingQuality": {
@@ -1621,7 +1579,7 @@
           },
           "value": 3,
           "$source": "propane.a",
-          "timestamp": "2026-11-14T23:09:07.122Z"
+          "timestamp": "2026-11-15T00:09:23.281Z"
         }
       },
       "b-CD-A5-8E-1A-0E-FC": {
@@ -1630,9 +1588,9 @@
             "description": "",
             "units": "db"
           },
-          "value": -79,
+          "value": -75,
           "$source": "propane.b",
-          "timestamp": "2026-11-14T23:09:08.625Z"
+          "timestamp": "2026-11-15T00:09:13.245Z"
         },
         "battery": {
           "voltage": {
@@ -1650,7 +1608,7 @@
             },
             "value": 2.96875,
             "$source": "propane.b",
-            "timestamp": "2026-11-14T23:09:08.625Z"
+            "timestamp": "2026-11-15T00:09:13.245Z"
           },
           "strength": {
             "meta": {
@@ -1681,7 +1639,7 @@
             },
             "value": 1,
             "$source": "propane.b",
-            "timestamp": "2026-11-14T23:09:08.625Z"
+            "timestamp": "2026-11-15T00:09:13.245Z"
           }
         },
         "readingQuality": {
@@ -1690,7 +1648,7 @@
           },
           "value": 3,
           "$source": "propane.b",
-          "timestamp": "2026-11-14T23:09:08.626Z"
+          "timestamp": "2026-11-15T00:09:13.246Z"
         }
       }
     },
@@ -1703,7 +1661,7 @@
           },
           "value": -75,
           "$source": "blackwater.stern",
-          "timestamp": "2026-11-14T23:09:11.342Z"
+          "timestamp": "2026-11-15T00:09:26.882Z"
         },
         "battery": {
           "voltage": {
@@ -1721,7 +1679,7 @@
             },
             "value": 2.9375,
             "$source": "blackwater.stern",
-            "timestamp": "2026-11-14T23:09:11.343Z"
+            "timestamp": "2026-11-15T00:09:26.882Z"
           },
           "strength": {
             "meta": {
@@ -1752,7 +1710,7 @@
             },
             "value": 1,
             "$source": "blackwater.stern",
-            "timestamp": "2026-11-14T23:09:11.343Z"
+            "timestamp": "2026-11-15T00:09:26.883Z"
           }
         },
         "readingQuality": {
@@ -1761,7 +1719,7 @@
           },
           "value": 0,
           "$source": "blackwater.stern",
-          "timestamp": "2026-11-14T23:09:11.343Z"
+          "timestamp": "2026-11-15T00:09:26.883Z"
         }
       }
     }
@@ -1903,7 +1861,7 @@
             }
           },
           "$source": "fuel.reserve",
-          "timestamp": "2026-11-14T23:09:10.188Z"
+          "timestamp": "2026-11-15T00:09:14.436Z"
         }
       },
       "propane": {
@@ -1943,7 +1901,7 @@
             }
           },
           "$source": "propane.a",
-          "timestamp": "2026-11-14T23:09:10.190Z"
+          "timestamp": "2026-11-15T00:09:14.437Z"
         },
         "b-CD-A5-8E-1A-0E-FC": {
           "battery": {
@@ -1984,7 +1942,7 @@
             }
           },
           "$source": "propane.b",
-          "timestamp": "2026-11-14T23:09:10.192Z"
+          "timestamp": "2026-11-15T00:09:14.438Z"
         }
       },
       "blackwater": {
@@ -2024,7 +1982,7 @@
             }
           },
           "$source": "blackwater.stern",
-          "timestamp": "2026-11-14T23:09:10.193Z"
+          "timestamp": "2026-11-15T00:09:14.438Z"
         }
       }
     },
@@ -2689,7 +2647,7 @@
           "supportsPut": true
         },
         "$source": "signalk-racer.XX",
-        "timestamp": "2026-11-14T23:09:17.558Z"
+        "timestamp": "2026-11-15T00:09:30.645Z"
       },
       "startLineStb": {
         "meta": {
@@ -2716,7 +2674,7 @@
           "supportsPut": true
         },
         "$source": "signalk-racer.XX",
-        "timestamp": "2026-11-14T23:09:17.558Z"
+        "timestamp": "2026-11-15T00:09:30.645Z"
       },
       "startLineLength": {
         "meta": {
@@ -2735,7 +2693,7 @@
           "shortName": "SLL"
         },
         "$source": "signalk-racer.XX",
-        "timestamp": "2026-11-14T23:09:17.558Z"
+        "timestamp": "2026-11-15T00:09:30.645Z"
       },
       "startLineBearing": {
         "meta": {
@@ -2754,7 +2712,7 @@
           }
         },
         "$source": "signalk-racer.XX",
-        "timestamp": "2026-11-14T23:09:17.558Z"
+        "timestamp": "2026-11-15T00:09:30.645Z"
       }
     },
     "headingMagnetic": {
@@ -2770,9 +2728,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 5.8816,
+      "value": 5.8929,
       "$source": "can0.5",
-      "timestamp": "2026-11-14T23:09:17.960Z",
+      "timestamp": "2026-11-15T00:09:31.225Z",
       "pgn": 127250
     },
     "attitude": {
@@ -2797,11 +2755,11 @@
         }
       },
       "value": {
-        "pitch": -0.0023,
-        "roll": -0.0255
+        "pitch": -0.0013,
+        "roll": -0.0263
       },
       "$source": "can0.35",
-      "timestamp": "2026-11-14T23:09:17.890Z",
+      "timestamp": "2026-11-15T00:09:31.222Z",
       "pgn": 127257
     },
     "rateOfTurn": {
@@ -2817,9 +2775,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": -0.01533969,
+      "value": 0.00009584,
       "$source": "can0.5",
-      "timestamp": "2026-11-14T23:09:17.985Z",
+      "timestamp": "2026-11-15T00:09:31.250Z",
       "pgn": 127251
     },
     "magneticVariation": {
@@ -2837,23 +2795,23 @@
       },
       "value": 0.2347,
       "$source": "can0.7",
-      "timestamp": "2026-11-14T23:09:17.177Z",
+      "timestamp": "2026-11-15T00:09:31.176Z",
       "source": {
         "value": "WMM 2025",
         "$source": "derived-data",
-        "timestamp": "2026-11-14T23:09:10.093Z"
+        "timestamp": "2026-11-15T00:09:29.084Z"
       },
       "values": {
         "derived-data": {
           "source": {
             "value": "WMM 2025",
             "$source": "derived-data",
-            "timestamp": "2026-11-14T23:09:10.093Z"
+            "timestamp": "2026-11-15T00:09:29.084Z"
           }
         },
         "can0.7": {
           "value": 0.2347,
-          "timestamp": "2026-11-14T23:09:17.177Z",
+          "timestamp": "2026-11-15T00:09:31.176Z",
           "pgn": 127258
         }
       },
@@ -2887,7 +2845,7 @@
         "longitude": -122.3861
       },
       "$source": "gpspuck.GP",
-      "timestamp": "2026-11-14T23:09:17.095Z",
+      "timestamp": "2026-11-15T00:09:31.093Z",
       "values": {
         "can0.7": {
           "pgn": 129025
@@ -2897,7 +2855,7 @@
             "latitude": 37.78,
             "longitude": -122.3861
           },
-          "timestamp": "2026-11-14T23:09:17.095Z",
+          "timestamp": "2026-11-15T00:09:31.093Z",
           "sentence": "GLL"
         }
       },
@@ -2917,10 +2875,10 @@
         }
       },
       "$source": "gpspuck.GP",
-      "timestamp": "2026-11-14T23:09:17.091Z",
+      "timestamp": "2026-11-15T00:09:31.090Z",
       "values": {
         "gpspuck.GP": {
-          "timestamp": "2026-11-14T23:09:17.091Z",
+          "timestamp": "2026-11-15T00:09:31.090Z",
           "sentence": "VTG"
         }
       },
@@ -2939,16 +2897,16 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 0.03972222222222222,
+      "value": 0.015555555555555555,
       "$source": "gpspuck.GP",
-      "timestamp": "2026-11-14T23:09:17.091Z",
+      "timestamp": "2026-11-15T00:09:31.090Z",
       "values": {
         "can0.7": {
           "pgn": 129026
         },
         "gpspuck.GP": {
-          "value": 0.03972222222222222,
-          "timestamp": "2026-11-14T23:09:17.091Z",
+          "value": 0.015555555555555555,
+          "timestamp": "2026-11-15T00:09:31.090Z",
           "sentence": "VTG"
         }
       },
@@ -2968,13 +2926,13 @@
         }
       },
       "$source": "gpspuck.GP",
-      "timestamp": "2026-11-14T23:09:17.091Z",
+      "timestamp": "2026-11-15T00:09:31.090Z",
       "values": {
         "can0.7": {
           "pgn": 129026
         },
         "gpspuck.GP": {
-          "timestamp": "2026-11-14T23:09:17.091Z",
+          "timestamp": "2026-11-15T00:09:31.090Z",
           "sentence": "VTG"
         }
       },
@@ -2995,29 +2953,29 @@
       },
       "value": 0,
       "$source": "can0.35",
-      "timestamp": "2026-11-14T23:09:17.892Z",
+      "timestamp": "2026-11-15T00:09:31.126Z",
       "pgn": 128259
     },
     "speedThroughWaterReferenceType": {
       "value": "Paddle wheel",
       "$source": "can0.35",
-      "timestamp": "2026-11-14T23:09:17.892Z",
+      "timestamp": "2026-11-15T00:09:31.126Z",
       "pgn": 128259
     },
     "datetime": {
       "meta": {
         "description": "Time and Date from the GNSS Positioning System"
       },
-      "value": "2026-11-14T23:09:17.000Z",
+      "value": "2026-11-15T00:09:31.000Z",
       "$source": "gpspuck.GP",
-      "timestamp": "2026-11-14T23:09:17.087Z",
+      "timestamp": "2026-11-15T00:09:31.087Z",
       "values": {
         "can0.7": {
           "pgn": 129029
         },
         "gpspuck.GP": {
-          "value": "2026-11-14T23:09:17.000Z",
-          "timestamp": "2026-11-14T23:09:17.087Z",
+          "value": "2026-11-15T00:09:31.000Z",
+          "timestamp": "2026-11-15T00:09:31.087Z",
           "sentence": "RMC"
         }
       },
@@ -3037,16 +2995,16 @@
             "displayFormat": "0.0"
           }
         },
-        "value": -3.3,
+        "value": 1.3,
         "$source": "gpspuck.GP",
-        "timestamp": "2026-11-14T23:09:17.092Z",
+        "timestamp": "2026-11-15T00:09:31.091Z",
         "values": {
           "can0.7": {
             "pgn": 129029
           },
           "gpspuck.GP": {
-            "value": -3.3,
-            "timestamp": "2026-11-14T23:09:17.092Z",
+            "value": 1.3,
+            "timestamp": "2026-11-15T00:09:31.091Z",
             "sentence": "GGA"
           }
         },
@@ -3056,16 +3014,16 @@
         "meta": {
           "description": "Number of satellites"
         },
-        "value": 9,
+        "value": 10,
         "$source": "gpspuck.GP",
-        "timestamp": "2026-11-14T23:09:17.092Z",
+        "timestamp": "2026-11-15T00:09:31.091Z",
         "values": {
           "can0.7": {
             "pgn": 129029
           },
           "gpspuck.GP": {
-            "value": 9,
-            "timestamp": "2026-11-14T23:09:17.092Z",
+            "value": 10,
+            "timestamp": "2026-11-15T00:09:31.091Z",
             "sentence": "GGA"
           }
         },
@@ -3075,16 +3033,16 @@
         "meta": {
           "description": "Horizontal Dilution of Precision"
         },
-        "value": 1.16,
+        "value": 0.97,
         "$source": "gpspuck.GP",
-        "timestamp": "2026-11-14T23:09:17.092Z",
+        "timestamp": "2026-11-15T00:09:31.091Z",
         "values": {
           "can0.7": {
             "pgn": 129029
           },
           "gpspuck.GP": {
-            "value": 1.16,
-            "timestamp": "2026-11-14T23:09:17.092Z",
+            "value": 0.97,
+            "timestamp": "2026-11-15T00:09:31.091Z",
             "sentence": "GGA"
           }
         },
@@ -3094,9 +3052,9 @@
         "meta": {
           "description": "Positional Dilution of Precision"
         },
-        "value": 1.7,
+        "value": 1.43,
         "$source": "can0.7",
-        "timestamp": "2026-11-14T23:09:17.112Z",
+        "timestamp": "2026-11-15T00:09:31.106Z",
         "pgn": 129029
       },
       "geoidalSeparation": {
@@ -3105,14 +3063,14 @@
         },
         "value": -29.7,
         "$source": "gpspuck.GP",
-        "timestamp": "2026-11-14T23:09:17.092Z",
+        "timestamp": "2026-11-15T00:09:31.091Z",
         "values": {
           "can0.7": {
             "pgn": 129029
           },
           "gpspuck.GP": {
             "value": -29.7,
-            "timestamp": "2026-11-14T23:09:17.092Z",
+            "timestamp": "2026-11-15T00:09:31.091Z",
             "sentence": "GGA"
           }
         },
@@ -3124,7 +3082,7 @@
         },
         "value": "GPS",
         "$source": "can0.7",
-        "timestamp": "2026-11-14T23:09:17.112Z",
+        "timestamp": "2026-11-15T00:09:31.106Z",
         "pgn": 129029
       },
       "methodQuality": {
@@ -3133,14 +3091,14 @@
         },
         "value": "DGNSS fix",
         "$source": "gpspuck.GP",
-        "timestamp": "2026-11-14T23:09:17.092Z",
+        "timestamp": "2026-11-15T00:09:31.091Z",
         "values": {
           "can0.7": {
             "pgn": 129029
           },
           "gpspuck.GP": {
             "value": "DGNSS fix",
-            "timestamp": "2026-11-14T23:09:17.092Z",
+            "timestamp": "2026-11-15T00:09:31.091Z",
             "sentence": "GGA"
           }
         },
@@ -3152,76 +3110,93 @@
         },
         "value": "no Integrity checking",
         "$source": "can0.7",
-        "timestamp": "2026-11-14T23:09:17.112Z",
+        "timestamp": "2026-11-15T00:09:31.106Z",
         "pgn": 129029
       },
       "satellitesInView": {
         "value": {
-          "count": 13,
+          "count": 16,
           "satellites": [
             {
               "id": 1,
-              "elevation": 0.29670597290678274,
-              "azimuth": 1.2566370617228446,
-              "SNR": 22
+              "elevation": 0.24434609533499757,
+              "azimuth": 0.8028514561007063,
+              "SNR": 26
             },
             {
               "id": 2,
-              "elevation": 0.22689280281106916,
-              "azimuth": 0.8203047486246348
+              "elevation": 0,
+              "azimuth": 0.5061454831939235
+            },
+            {
+              "id": 6,
+              "elevation": 0.29670597290678274,
+              "azimuth": 2.792526803828544,
+              "SNR": 28
             },
             {
               "id": 7,
-              "elevation": 0.40142572805035315,
-              "azimuth": 2.111848395395336,
+              "elevation": 0,
+              "azimuth": 2.3561944907303336
+            },
+            {
+              "id": 12,
+              "elevation": 0.174532925239284,
+              "azimuth": 4.782202151556381,
               "SNR": 18
             },
             {
+              "id": 13,
+              "elevation": 0.0174532925239284,
+              "azimuth": 4.834562029128167
+            },
+            {
               "id": 14,
-              "elevation": 1.099557429007489,
-              "azimuth": 0.5585053607657088,
-              "SNR": 37
-            },
-            {
-              "id": 15,
-              "elevation": 0.48869219066999514,
-              "azimuth": 5.201081172130663,
-              "SNR": 35
-            },
-            {
-              "id": 17,
-              "elevation": 1.2391837691989163,
-              "azimuth": 2.687807048684973,
-              "SNR": 33
-            },
-            {
-              "id": 19,
               "elevation": 0.7679448710528495,
-              "azimuth": 3.368485457118181,
+              "azimuth": 1.1519173065792743,
               "SNR": 22
             },
             {
+              "id": 15,
+              "elevation": 0.47123889814606673,
+              "azimuth": 4.660029103888882,
+              "SNR": 32
+            },
+            {
+              "id": 17,
+              "elevation": 1.2042771841510596,
+              "azimuth": 0.9599310888160619,
+              "SNR": 35
+            },
+            {
+              "id": 19,
+              "elevation": 1.274090354246773,
+              "azimuth": 3.4732052122617514,
+              "SNR": 30
+            },
+            {
               "id": 20,
-              "elevation": 0.8203047486246348,
-              "azimuth": 4.642575811364954,
-              "SNR": 29
+              "elevation": 0.5759586532896371,
+              "azimuth": 4.049163865551388,
+              "SNR": 31
             },
             {
               "id": 22,
-              "elevation": 1.2391837691989163,
-              "azimuth": 5.8293997029920845,
+              "elevation": 1.0646508439596323,
+              "azimuth": 0.6632251159092791,
               "SNR": 36
             },
             {
               "id": 24,
-              "elevation": 0.0698131700957136,
-              "azimuth": 5.410520682417803
+              "elevation": 0.48869219066999514,
+              "azimuth": 5.44542726746566,
+              "SNR": 31
             },
             {
               "id": 30,
-              "elevation": 0.9773843813399903,
-              "azimuth": 2.024581932775694,
-              "SNR": 37
+              "elevation": 0.5410520682417803,
+              "azimuth": 2.408554368302119,
+              "SNR": 27
             },
             {
               "id": 46,
@@ -3232,84 +3207,101 @@
               "id": 48,
               "elevation": 0.8028514561007063,
               "azimuth": 3.211405824402825,
-              "SNR": 32
+              "SNR": 33
             }
           ],
           "gnss": "GPS"
         },
         "$source": "gpspuck.GP",
-        "timestamp": "2026-11-14T23:09:17.094Z",
+        "timestamp": "2026-11-15T00:09:31.093Z",
         "values": {
           "can0.7": {
             "pgn": 129540
           },
           "gpspuck.GP": {
             "value": {
-              "count": 13,
+              "count": 16,
               "satellites": [
                 {
                   "id": 1,
-                  "elevation": 0.29670597290678274,
-                  "azimuth": 1.2566370617228446,
-                  "SNR": 22
+                  "elevation": 0.24434609533499757,
+                  "azimuth": 0.8028514561007063,
+                  "SNR": 26
                 },
                 {
                   "id": 2,
-                  "elevation": 0.22689280281106916,
-                  "azimuth": 0.8203047486246348
+                  "elevation": 0,
+                  "azimuth": 0.5061454831939235
+                },
+                {
+                  "id": 6,
+                  "elevation": 0.29670597290678274,
+                  "azimuth": 2.792526803828544,
+                  "SNR": 28
                 },
                 {
                   "id": 7,
-                  "elevation": 0.40142572805035315,
-                  "azimuth": 2.111848395395336,
+                  "elevation": 0,
+                  "azimuth": 2.3561944907303336
+                },
+                {
+                  "id": 12,
+                  "elevation": 0.174532925239284,
+                  "azimuth": 4.782202151556381,
                   "SNR": 18
                 },
                 {
+                  "id": 13,
+                  "elevation": 0.0174532925239284,
+                  "azimuth": 4.834562029128167
+                },
+                {
                   "id": 14,
-                  "elevation": 1.099557429007489,
-                  "azimuth": 0.5585053607657088,
-                  "SNR": 37
-                },
-                {
-                  "id": 15,
-                  "elevation": 0.48869219066999514,
-                  "azimuth": 5.201081172130663,
-                  "SNR": 35
-                },
-                {
-                  "id": 17,
-                  "elevation": 1.2391837691989163,
-                  "azimuth": 2.687807048684973,
-                  "SNR": 33
-                },
-                {
-                  "id": 19,
                   "elevation": 0.7679448710528495,
-                  "azimuth": 3.368485457118181,
+                  "azimuth": 1.1519173065792743,
                   "SNR": 22
                 },
                 {
+                  "id": 15,
+                  "elevation": 0.47123889814606673,
+                  "azimuth": 4.660029103888882,
+                  "SNR": 32
+                },
+                {
+                  "id": 17,
+                  "elevation": 1.2042771841510596,
+                  "azimuth": 0.9599310888160619,
+                  "SNR": 35
+                },
+                {
+                  "id": 19,
+                  "elevation": 1.274090354246773,
+                  "azimuth": 3.4732052122617514,
+                  "SNR": 30
+                },
+                {
                   "id": 20,
-                  "elevation": 0.8203047486246348,
-                  "azimuth": 4.642575811364954,
-                  "SNR": 29
+                  "elevation": 0.5759586532896371,
+                  "azimuth": 4.049163865551388,
+                  "SNR": 31
                 },
                 {
                   "id": 22,
-                  "elevation": 1.2391837691989163,
-                  "azimuth": 5.8293997029920845,
+                  "elevation": 1.0646508439596323,
+                  "azimuth": 0.6632251159092791,
                   "SNR": 36
                 },
                 {
                   "id": 24,
-                  "elevation": 0.0698131700957136,
-                  "azimuth": 5.410520682417803
+                  "elevation": 0.48869219066999514,
+                  "azimuth": 5.44542726746566,
+                  "SNR": 31
                 },
                 {
                   "id": 30,
-                  "elevation": 0.9773843813399903,
-                  "azimuth": 2.024581932775694,
-                  "SNR": 37
+                  "elevation": 0.5410520682417803,
+                  "azimuth": 2.408554368302119,
+                  "SNR": 27
                 },
                 {
                   "id": 46,
@@ -3320,12 +3312,12 @@
                   "id": 48,
                   "elevation": 0.8028514561007063,
                   "azimuth": 3.211405824402825,
-                  "SNR": 32
+                  "SNR": 33
                 }
               ],
               "gnss": "GPS"
             },
-            "timestamp": "2026-11-14T23:09:17.094Z",
+            "timestamp": "2026-11-15T00:09:31.093Z",
             "sentence": "GSV"
           }
         },
@@ -3345,7 +3337,7 @@
           }
         },
         "$source": "gpspuck.GP",
-        "timestamp": "2026-11-14T23:09:17.092Z",
+        "timestamp": "2026-11-15T00:09:31.091Z",
         "sentence": "GGA"
       },
       "differentialReference": {
@@ -3354,7 +3346,7 @@
         },
         "value": 0,
         "$source": "gpspuck.GP",
-        "timestamp": "2026-11-14T23:09:17.092Z",
+        "timestamp": "2026-11-15T00:09:31.091Z",
         "sentence": "GGA"
       }
     },
@@ -3373,7 +3365,7 @@
       },
       "value": 1393840,
       "$source": "can0.35",
-      "timestamp": "2026-11-14T23:09:17.198Z",
+      "timestamp": "2026-11-15T00:09:31.233Z",
       "pgn": 128275
     },
     "magneticVariationAgeOfService": {
@@ -3389,9 +3381,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1794697757,
+      "value": 1794701371,
       "$source": "gpspuck.GP",
-      "timestamp": "2026-11-14T23:09:17.087Z",
+      "timestamp": "2026-11-15T00:09:31.087Z",
       "sentence": "RMC"
     },
     "leewayAngle": {
@@ -3408,7 +3400,7 @@
         }
       },
       "$source": "derived-data",
-      "timestamp": "2026-11-14T23:09:17.177Z"
+      "timestamp": "2026-11-15T00:09:30.168Z"
     },
     "headingTrue": {
       "meta": {
@@ -3423,9 +3415,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 6.1165,
+      "value": 6.1277,
       "$source": "derived-data",
-      "timestamp": "2026-11-14T23:09:17.177Z"
+      "timestamp": "2026-11-15T00:09:30.168Z"
     },
     "state": {
       "meta": {
@@ -3433,7 +3425,7 @@
       },
       "value": "moored",
       "$source": "signalk-autostate.XX",
-      "timestamp": "2026-11-14T22:59:19.096Z"
+      "timestamp": "2026-11-14T23:59:36.115Z"
     },
     "trip": {
       "log": {
@@ -3451,7 +3443,7 @@
         },
         "value": 24,
         "$source": "signalk-triplogger.XX",
-        "timestamp": "2026-11-14T23:09:12.098Z"
+        "timestamp": "2026-11-15T00:09:27.785Z"
       },
       "lastReset": {
         "meta": {
@@ -3480,7 +3472,7 @@
             },
             "value": -3600,
             "$source": "Victron.D0:5B:3A:98:8A:90",
-            "timestamp": "2026-11-14T23:09:17.672490Z"
+            "timestamp": "2026-11-15T00:09:30.802075Z"
           },
           "stateOfCharge": {
             "meta": {
@@ -3527,7 +3519,7 @@
             },
             "value": 0.998,
             "$source": "Victron.D0:5B:3A:98:8A:90",
-            "timestamp": "2026-11-14T23:09:17.672490Z"
+            "timestamp": "2026-11-15T00:09:30.802075Z"
           },
           "timeRemaining": {
             "meta": {
@@ -3544,7 +3536,7 @@
             },
             "value": 864000,
             "$source": "Victron.D0:5B:3A:98:8A:90",
-            "timestamp": "2026-11-14T23:00:39.193770Z"
+            "timestamp": "2026-11-15T00:07:26.947703Z"
           }
         },
         "current": {
@@ -3563,12 +3555,12 @@
           },
           "value": 0,
           "$source": "Victron.D0:5B:3A:98:8A:90",
-          "timestamp": "2026-11-14T23:09:17.672490Z"
+          "timestamp": "2026-11-15T00:09:30.802075Z"
         },
         "power": {
           "value": 0,
           "$source": "Victron.D0:5B:3A:98:8A:90",
-          "timestamp": "2026-11-14T23:09:17.672490Z"
+          "timestamp": "2026-11-15T00:09:30.802075Z"
         },
         "voltage": {
           "meta": {
@@ -3583,9 +3575,9 @@
               "displayFormat": "0.00"
             }
           },
-          "value": 13.03,
+          "value": 13.05,
           "$source": "Victron.D0:5B:3A:98:8A:90",
-          "timestamp": "2026-11-14T23:09:17.672490Z"
+          "timestamp": "2026-11-15T00:09:30.802075Z"
         }
       }
     },
@@ -3712,7 +3704,7 @@
         },
         "value": 0,
         "$source": "can0.6",
-        "timestamp": "2026-11-14T23:09:17.895Z",
+        "timestamp": "2026-11-15T00:09:31.205Z",
         "pgn": 127488
       },
       "drive": {
@@ -3731,7 +3723,7 @@
           },
           "value": -1,
           "$source": "can0.6",
-          "timestamp": "2026-11-14T23:09:17.895Z",
+          "timestamp": "2026-11-15T00:09:31.205Z",
           "pgn": 127488
         }
       },
@@ -3786,7 +3778,7 @@
       },
       "value": 0,
       "$source": "derived-data",
-      "timestamp": "2026-11-14T23:09:17.497Z"
+      "timestamp": "2026-11-15T00:09:31.122Z"
     },
     "beatAngle": {
       "meta": {
@@ -3801,9 +3793,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": -0.8095770346330462,
+      "value": -0.8185081316444899,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "gybeAngle": {
       "meta": {
@@ -3820,7 +3812,7 @@
       },
       "value": -2.6179938779914944,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "beatAngleVelocityMadeGood": {
       "meta": {
@@ -3835,9 +3827,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.0077445066715212,
+      "value": 0.9027084411876924,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "gybeAngleVelocityMadeGood": {
       "meta": {
@@ -3852,9 +3844,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.528837702571571,
+      "value": 1.367243755673373,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "targetAngle": {
       "meta": {
@@ -3871,7 +3863,7 @@
       },
       "value": -2.6179938779914944,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "targetVelocityMadeGood": {
       "meta": {
@@ -3886,9 +3878,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.528837702571571,
+      "value": 1.367243755673373,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "optimumWindAngle": {
       "meta": {
@@ -3903,9 +3895,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 0.3536414112956705,
+      "value": 0.4785107415420602,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "polarSpeed": {
       "meta": {
@@ -3920,9 +3912,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 2.2217295792306992,
+      "value": 2.1341674705650173,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "targetSpeed": {
       "meta": {
@@ -3937,9 +3929,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.7653497182538909,
+      "value": 1.5787571007717136,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "polarSpeedRatio": {
       "meta": {
@@ -3956,7 +3948,7 @@
       },
       "value": 0,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "velocityMadeGood": {
       "meta": {
@@ -3973,7 +3965,7 @@
       },
       "value": 0,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "polarVelocityMadeGood": {
       "meta": {
@@ -3988,9 +3980,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 1.528837702571571,
+      "value": 1.367243755673373,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "polarVelocityMadeGoodRatio": {
       "meta": {
@@ -4007,7 +3999,7 @@
       },
       "value": 0,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "maxSpeed": {
       "meta": {
@@ -4022,9 +4014,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 2.5891217433486413,
+      "value": 2.3868355791312768,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "maxSpeedAngle": {
       "meta": {
@@ -4041,7 +4033,7 @@
       },
       "value": -1.3089969389957472,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     },
     "tackTrue": {
       "meta": {
@@ -4056,9 +4048,9 @@
           "displayFormat": "0.0"
         }
       },
-      "value": 3.499217445101767,
+      "value": 3.510489825997089,
       "$source": "signalk-polar-performance-plugin",
-      "timestamp": "2026-11-14T23:09:17.795Z"
+      "timestamp": "2026-11-15T00:09:31.128Z"
     }
   },
   "tanks": {
@@ -4094,7 +4086,7 @@
           },
           "value": 0.14495999999999998,
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:09:15.899Z"
+          "timestamp": "2026-11-15T00:09:30.353Z"
         },
         "currentLevel": {
           "meta": {
@@ -4111,7 +4103,7 @@
           },
           "value": 0.96,
           "$source": "can0.6",
-          "timestamp": "2026-11-14T23:09:15.899Z",
+          "timestamp": "2026-11-15T00:09:30.353Z",
           "pgn": 127505
         },
         "capacity": {
@@ -4129,7 +4121,7 @@
           },
           "value": 0.151,
           "$source": "can0.6",
-          "timestamp": "2026-11-14T23:09:15.899Z",
+          "timestamp": "2026-11-15T00:09:30.353Z",
           "pgn": 127505
         }
       },
@@ -4149,7 +4141,7 @@
           },
           "value": 290.15,
           "$source": "fuel.reserve",
-          "timestamp": "2026-11-14T23:09:14.679Z"
+          "timestamp": "2026-11-15T00:09:26.982Z"
         },
         "capacity": {
           "meta": {
@@ -4166,7 +4158,7 @@
           },
           "value": 0.11356229999999999,
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:09:14.680Z"
+          "timestamp": "2026-11-15T00:09:26.982Z"
         },
         "currentVolume": {
           "meta": {
@@ -4183,7 +4175,7 @@
           },
           "value": 0.08708174331658114,
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:09:14.680Z"
+          "timestamp": "2026-11-15T00:09:26.982Z"
         },
         "currentLevel": {
           "meta": {
@@ -4200,7 +4192,7 @@
           },
           "value": 0.7668191232176624,
           "$source": "fuel.reserve",
-          "timestamp": "2026-11-14T23:09:14.680Z"
+          "timestamp": "2026-11-15T00:09:26.982Z"
         }
       }
     },
@@ -4221,7 +4213,7 @@
           },
           "value": 0.2014,
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:09:15.902Z"
+          "timestamp": "2026-11-15T00:09:30.354Z"
         },
         "currentLevel": {
           "meta": {
@@ -4238,7 +4230,7 @@
           },
           "value": 0.7599999999999999,
           "$source": "can0.6",
-          "timestamp": "2026-11-14T23:09:15.902Z",
+          "timestamp": "2026-11-15T00:09:30.354Z",
           "pgn": 127505
         },
         "capacity": {
@@ -4256,7 +4248,7 @@
           },
           "value": 0.265,
           "$source": "can0.6",
-          "timestamp": "2026-11-14T23:09:15.902Z",
+          "timestamp": "2026-11-15T00:09:30.354Z",
           "pgn": 127505
         }
       },
@@ -4276,7 +4268,7 @@
           },
           "value": 0.265,
           "$source": "derived-data",
-          "timestamp": "2026-11-14T23:09:15.904Z"
+          "timestamp": "2026-11-15T00:09:30.355Z"
         },
         "currentLevel": {
           "meta": {
@@ -4293,7 +4285,7 @@
           },
           "value": 1,
           "$source": "can0.6",
-          "timestamp": "2026-11-14T23:09:15.904Z",
+          "timestamp": "2026-11-15T00:09:30.355Z",
           "pgn": 127505
         },
         "capacity": {
@@ -4311,7 +4303,7 @@
           },
           "value": 0.265,
           "$source": "can0.6",
-          "timestamp": "2026-11-14T23:09:15.904Z",
+          "timestamp": "2026-11-15T00:09:30.355Z",
           "pgn": 127505
         }
       }
@@ -4347,7 +4339,7 @@
           },
           "value": 0.4285714285714285,
           "$source": "can0.6",
-          "timestamp": "2026-11-14T23:09:15.905Z",
+          "timestamp": "2026-11-15T00:09:30.356Z",
           "pgn": 127505
         },
         "capacity": {
@@ -4365,7 +4357,7 @@
           },
           "value": 214748.36469999998,
           "$source": "can0.6",
-          "timestamp": "2026-11-14T23:09:15.905Z",
+          "timestamp": "2026-11-15T00:09:30.356Z",
           "pgn": 127505
         }
       }
@@ -4387,7 +4379,7 @@
           },
           "value": 292.15,
           "$source": "propane.a",
-          "timestamp": "2026-11-14T23:09:07.121Z"
+          "timestamp": "2026-11-15T00:09:23.280Z"
         },
         "currentLevel": {
           "meta": {
@@ -4405,9 +4397,9 @@
               "displayFormat": "0"
             }
           },
-          "value": 0.40448110695652184,
+          "value": 0.4062474000000001,
           "$source": "propane.a",
-          "timestamp": "2026-11-14T23:09:07.121Z"
+          "timestamp": "2026-11-15T00:09:23.280Z"
         }
       },
       "b": {
@@ -4426,7 +4418,7 @@
           },
           "value": 289.15,
           "$source": "propane.b",
-          "timestamp": "2026-11-14T23:09:08.625Z"
+          "timestamp": "2026-11-15T00:09:13.245Z"
         },
         "currentLevel": {
           "meta": {
@@ -4444,9 +4436,9 @@
               "displayFormat": "0"
             }
           },
-          "value": 0.38587870565217397,
+          "value": 0.3876818771739131,
           "$source": "propane.b",
-          "timestamp": "2026-11-14T23:09:08.626Z"
+          "timestamp": "2026-11-15T00:09:13.245Z"
         }
       }
     },
@@ -4467,7 +4459,7 @@
           },
           "value": 289.15,
           "$source": "blackwater.stern",
-          "timestamp": "2026-11-14T23:09:11.343Z"
+          "timestamp": "2026-11-15T00:09:26.883Z"
         },
         "currentLevel": {
           "meta": {
@@ -4484,7 +4476,7 @@
           },
           "value": 0,
           "$source": "blackwater.stern",
-          "timestamp": "2026-11-14T23:09:11.343Z"
+          "timestamp": "2026-11-15T00:09:26.883Z"
         }
       }
     }
@@ -4588,36 +4580,36 @@
   "internet": {
     "ping": {
       "jitter": {
-        "value": 13.246,
+        "value": 9.338,
         "$source": "signalk-plugin-internet-speed",
-        "timestamp": "2026-11-14T22:11:57.677Z"
+        "timestamp": "2026-11-14T23:11:55.947Z"
       },
       "latency": {
-        "value": 33.381,
+        "value": 36.178,
         "$source": "signalk-plugin-internet-speed",
-        "timestamp": "2026-11-14T22:11:57.677Z"
+        "timestamp": "2026-11-14T23:11:55.947Z"
       }
     },
     "packetLoss": {
-      "value": 0.33444816053511706,
+      "value": 0,
       "$source": "signalk-plugin-internet-speed",
-      "timestamp": "2026-11-14T22:11:57.677Z"
+      "timestamp": "2026-11-14T23:11:55.947Z"
     },
     "ISP": {
       "value": "Verizon Wireless",
       "$source": "signalk-plugin-internet-speed",
-      "timestamp": "2026-11-14T22:11:57.677Z"
+      "timestamp": "2026-11-14T23:11:55.947Z"
     },
     "speed": {
       "download": {
-        "value": 18.4707,
+        "value": 17.5174125,
         "$source": "signalk-plugin-internet-speed",
-        "timestamp": "2026-11-14T22:11:57.677Z"
+        "timestamp": "2026-11-14T23:11:55.947Z"
       },
       "upload": {
-        "value": 17.1051625,
+        "value": 16.9983875,
         "$source": "signalk-plugin-internet-speed",
-        "timestamp": "2026-11-14T22:11:57.677Z"
+        "timestamp": "2026-11-14T23:11:55.947Z"
       }
     }
   }
