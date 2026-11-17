@@ -1,9 +1,17 @@
 {
   "schema_version": 1,
-  "generated": "2026-11-15T15:30:36.540Z",
+  "generated": "2026-11-17T21:34:31.599Z",
   "window_hours": 24,
-  "sampled_since": "2026-11-14T15:30:36.540Z",
+  "sampled_since": "2026-11-16T21:34:31.599Z",
   "continuous": true,
   "active": [],
-  "events": []
+  "events": [
+    {
+      "path": "plugins.signalkAlertCenter.services.ZacksPhone4171b965",
+      "state": "alert",
+      "level": "alert",
+      "message": "Zack’s Phone has 1 failed notification delivery awaiting retry. Last error: NETWORK.",
+      "at": "2026-11-17T20:34:32.027Z"
+    }
+  ]
 }
