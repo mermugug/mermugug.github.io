@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated": "2026-11-19T18:49:09.868Z",
+  "generated": "2026-11-19T19:48:10.786Z",
   "window_hours": 24,
-  "sampled_since": "2026-11-18T18:49:09.868Z",
+  "sampled_since": "2026-11-18T19:48:10.786Z",
   "continuous": true,
   "active": [],
   "events": [
@@ -12,6 +12,13 @@
       "level": "alert",
       "message": "Moderate Bilge Water Level",
       "at": "2026-11-19T17:05:49.232Z"
+    },
+    {
+      "path": "tanks.liveWell.0.currentLevel",
+      "state": "alert",
+      "level": "alert",
+      "message": "Moderate Bilge Water Level",
+      "at": "2026-11-19T18:56:52.201Z"
     }
   ]
 }
