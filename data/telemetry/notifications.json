@@ -1,9 +1,27 @@
 {
   "schema_version": 1,
-  "generated": "2026-11-23T18:21:50.683Z",
+  "generated": "2026-11-23T18:43:01.864Z",
   "window_hours": 24,
-  "sampled_since": "2026-11-22T18:21:50.683Z",
+  "sampled_since": "2026-11-22T18:43:01.864Z",
   "continuous": true,
-  "active": [],
-  "events": []
+  "active": [
+    {
+      "path": "tanks.fuel.0.currentVolume",
+      "state": "alert",
+      "level": "alert",
+      "message": "Fuel Level Very Low",
+      "method": [],
+      "timestamp": "2026-11-23T18:42:58.873Z",
+      "since": "2026-11-23T18:43:01.864Z"
+    }
+  ],
+  "events": [
+    {
+      "path": "tanks.fuel.0.currentVolume",
+      "state": "alert",
+      "level": "alert",
+      "message": "Fuel Level Very Low",
+      "at": "2026-11-23T18:42:58.878Z"
+    }
+  ]
 }
