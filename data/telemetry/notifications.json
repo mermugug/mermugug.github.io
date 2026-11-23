@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated": "2026-11-23T20:58:42.847Z",
+  "generated": "2026-11-23T20:59:59.548Z",
   "window_hours": 24,
-  "sampled_since": "2026-11-22T20:58:42.847Z",
+  "sampled_since": "2026-11-22T20:59:59.548Z",
   "continuous": true,
   "active": [
     {
@@ -22,6 +22,13 @@
       "level": "alert",
       "message": "Fuel Level Very Low",
       "at": "2026-11-23T18:42:58.878Z"
+    },
+    {
+      "path": "tanks.liveWell.0.currentLevel",
+      "state": "alert",
+      "level": "alert",
+      "message": "Moderate Bilge Water Level",
+      "at": "2026-11-23T20:59:43.211Z"
     }
   ]
 }
